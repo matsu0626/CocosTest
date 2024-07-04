@@ -1,0 +1,1108 @@
+﻿  precheader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\base\ccUTF8.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\platform\CCSAXParser.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  AssetsManager.cpp
+  AssetsManagerEx.cpp
+  CCEventAssetsManagerEx.cpp
+  CCEventListenerAssetsManagerEx.cpp
+  Manifest.cpp
+  CCControl.cpp
+  CCControlButton.cpp
+  CCControlColourPicker.cpp
+  CCControlHuePicker.cpp
+  CCControlPotentiometer.cpp
+  CCControlSaturationBrightnessPicker.cpp
+  CCControlSlider.cpp
+  CCControlStepper.cpp
+  CCControlSwitch.cpp
+  CCControlUtils.cpp
+  CCInvocation.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\unzip\unzip.h(47,9): warning C4005: 'CC_DLL': マクロが再定義されました。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCScrollView.cpp
+  CCTableView.cpp
+  CCTableViewCell.cpp
+  CCParticle3DAffector.cpp
+  CCParticle3DEmitter.cpp
+  CCParticle3DRender.cpp
+  CCParticleSystem3D.cpp
+  CCPUAffector.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\unzip\unzip.h(47,9): warning C4005: 'CC_DLL': マクロが再定義されました。
+  CCPUAffectorManager.cpp
+  CCPUAffectorTranslator.cpp
+  CCPUAlignAffector.cpp
+  CCPUAlignAffectorTranslator.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(1180,27): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+  CCPUBaseCollider.cpp
+  CCPUBaseColliderTranslator.cpp
+  CCPUBaseForceAffector.cpp
+  CCPUBaseForceAffectorTranslator.cpp
+  CCPUBeamRender.cpp
+  CCPUBehaviour.cpp
+  CCPUBehaviourManager.cpp
+  CCPUBehaviourTranslator.cpp
+  CCPUBillboardChain.cpp
+  CCPUBoxCollider.cpp
+  CCPUBoxColliderTranslator.cpp
+  CCPUBoxEmitter.cpp
+  CCPUBoxEmitterTranslator.cpp
+  CCPUCircleEmitter.cpp
+  CCPUCircleEmitterTranslator.cpp
+  CCPUCollisionAvoidanceAffector.cpp
+  CCPUCollisionAvoidanceAffectorTranslator.cpp
+  CCPUColorAffector.cpp
+  CCPUColorAffectorTranslator.cpp
+  CCPUDoAffectorEventHandler.cpp
+  CCPUDoAffectorEventHandlerTranslator.cpp
+  CCPUDoEnableComponentEventHandler.cpp
+  CCPUDoEnableComponentEventHandlerTranslator.cpp
+  CCPUDoExpireEventHandler.cpp
+  CCPUDoExpireEventHandlerTranslator.cpp
+  CCPUDoFreezeEventHandler.cpp
+  CCPUDoFreezeEventHandlerTranslator.cpp
+  CCPUDoPlacementParticleEventHandler.cpp
+  CCPUDoPlacementParticleEventHandlerTranslator.cpp
+  CCPUDoScaleEventHandler.cpp
+  CCPUDoScaleEventHandlerTranslator.cpp
+  CCPUDoStopSystemEventHandler.cpp
+  CCPUDoStopSystemEventHandlerTranslator.cpp
+  CCPUDynamicAttribute.cpp
+  CCPUDynamicAttributeTranslator.cpp
+  CCPUEmitter.cpp
+  CCPUEmitterManager.cpp
+  CCPUEmitterTranslator.cpp
+  CCPUEventHandler.cpp
+  CCPUEventHandlerManager.cpp
+  CCPUEventHandlerTranslator.cpp
+  CCPUFlockCenteringAffector.cpp
+  CCPUFlockCenteringAffectorTranslator.cpp
+  CCPUForceField.cpp
+  CCPUForceFieldAffector.cpp
+  CCPUForceFieldAffectorTranslator.cpp
+  CCPUGeometryRotator.cpp
+  CCPUGeometryRotatorTranslator.cpp
+  CCPUGravityAffector.cpp
+  CCPUGravityAffectorTranslator.cpp
+  CCPUInterParticleCollider.cpp
+  CCPUInterParticleColliderTranslator.cpp
+  CCPUJetAffector.cpp
+  CCPUJetAffectorTranslator.cpp
+  CCPULineAffector.cpp
+  CCPULineAffectorTranslator.cpp
+  CCPULinearForceAffector.cpp
+  CCPULinearForceAffectorTranslator.cpp
+  CCPULineEmitter.cpp
+  CCPULineEmitterTranslator.cpp
+  CCPUListener.cpp
+  CCPUMaterialManager.cpp
+  CCPUMaterialTranslator.cpp
+  CCPUMeshSurfaceEmitter.cpp
+  CCPUMeshSurfaceEmitterTranslator.cpp
+  CCPUNoise.cpp
+  CCPUObserver.cpp
+  CCPUObserverManager.cpp
+  CCPUObserverTranslator.cpp
+  CCPUOnClearObserver.cpp
+  CCPUOnClearObserverTranslator.cpp
+  CCPUOnCollisionObserver.cpp
+  CCPUOnCollisionObserverTranslator.cpp
+  CCPUOnCountObserver.cpp
+  CCPUOnCountObserverTranslator.cpp
+  CCPUOnEmissionObserver.cpp
+  CCPUOnEmissionObserverTranslator.cpp
+  CCPUOnEventFlagObserver.cpp
+  CCPUOnEventFlagObserverTranslator.cpp
+  CCPUOnExpireObserver.cpp
+  CCPUOnExpireObserverTranslator.cpp
+  CCPUOnPositionObserver.cpp
+  CCPUOnPositionObserverTranslator.cpp
+  CCPUOnQuotaObserver.cpp
+  CCPUOnQuotaObserverTranslator.cpp
+  CCPUOnRandomObserver.cpp
+  CCPUOnRandomObserverTranslator.cpp
+  CCPUOnTimeObserver.cpp
+  CCPUOnTimeObserverTranslator.cpp
+  CCPUOnVelocityObserver.cpp
+  CCPUOnVelocityObserverTranslator.cpp
+  CCPUParticleFollower.cpp
+  CCPUParticleFollowerTranslator.cpp
+  CCPUParticleSystem3D.cpp
+  CCPUParticleSystem3DTranslator.cpp
+  CCPUPathFollower.cpp
+  CCPUPathFollowerTranslator.cpp
+  CCPUPlane.cpp
+  CCPUPlaneCollider.cpp
+  CCPUPlaneColliderTranslator.cpp
+  CCPUPointEmitter.cpp
+  CCPUPointEmitterTranslator.cpp
+  CCPUPositionEmitter.cpp
+  CCPUPositionEmitterTranslator.cpp
+  CCPURandomiser.cpp
+  CCPURandomiserTranslator.cpp
+  CCPURender.cpp
+  CCPURendererTranslator.cpp
+  CCPURibbonTrail.cpp
+  CCPURibbonTrailRender.cpp
+  CCPUScaleAffector.cpp
+  CCPUScaleAffectorTranslator.cpp
+  CCPUScaleVelocityAffector.cpp
+  CCPUScaleVelocityAffectorTranslator.cpp
+  CCPUScriptCompiler.cpp
+  CCPUScriptLexer.cpp
+  CCPUScriptParser.cpp
+  CCPUScriptTranslator.cpp
+  CCPUSimpleSpline.cpp
+  CCPUSineForceAffector.cpp
+  CCPUSineForceAffectorTranslator.cpp
+  CCPUSlaveBehaviour.cpp
+  CCPUSlaveBehaviourTranslator.cpp
+  CCPUSlaveEmitter.cpp
+  CCPUSlaveEmitterTranslator.cpp
+  CCPUSphere.cpp
+  CCPUSphereCollider.cpp
+  CCPUSphereColliderTranslator.cpp
+  CCPUSphereSurfaceEmitter.cpp
+  CCPUSphereSurfaceEmitterTranslator.cpp
+  CCPUTechniqueTranslator.cpp
+  CCPUTextureAnimator.cpp
+  CCPUTextureAnimatorTranslator.cpp
+  CCPUTextureRotator.cpp
+  CCPUTextureRotatorTranslator.cpp
+  CCPUTranslateManager.cpp
+  CCPUUtil.cpp
+  CCPUVelocityMatchingAffector.cpp
+  CCPUVelocityMatchingAffectorTranslator.cpp
+  CCPUVertexEmitter.cpp
+  CCPUVortexAffector.cpp
+  CCPUVortexAffectorTranslator.cpp
+  CCPhysicsDebugNode.cpp
+  CCPhysicsSprite.cpp
+  clipper.cpp
+  ConvertUTF.c
+  ConvertUTFWrapper.cpp
+  edtaa3func.cpp
+  idl_gen_cpp.cpp
+  idl_gen_fbs.cpp
+  idl_gen_general.cpp
+  idl_gen_go.cpp
+  idl_gen_text.cpp
+  idl_parser.cpp
+  md5.c
+  shapes.cc
+  advancing_front.cc
+  cdt.cc
+  sweep.cc
+  sweep_context.cc
+  tinyxml2.cpp
+  ioapi_mem.cpp
+  ioapi.cpp
+  unzip.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\unzip\ioapi.h(25,9): warning C4005: 'CC_DLL': マクロが再定義されました。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\unzip\ioapi.h(25,9): warning C4005: 'CC_DLL': マクロが再定義されました。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\unzip\unzip.h(47,9): warning C4005: 'CC_DLL': マクロが再定義されました。
+  xxhash.c
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\xxhash\xxhash.c(312,5): warning C4804: '/': 演算中の 'bool' 型の使用方法が安全ではありません
+  CCAABB.cpp
+  CCAnimate3D.cpp
+  CCAnimation3D.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\flatbuffers\idl_parser.cpp(790,3): warning C4858: 戻り値 The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps. を破棄しています
+  CCAttachNode.cpp
+  CCBillBoard.cpp
+  CCBundle3D.cpp
+  CCBundleReader.cpp
+  CCFrustum.cpp
+  CCMesh.cpp
+  CCMeshSkin.cpp
+  CCMeshVertexIndexData.cpp
+  CCMotionStreak3D.cpp
+  CCOBB.cpp
+  CCObjLoader.cpp
+  CCPlane.cpp
+  CCRay.cpp
+  CCSkeleton3D.cpp
+  CCSkybox.cpp
+  CCSprite3D.cpp
+  CCSprite3DMaterial.cpp
+  CCTerrain.cpp
+  AudioEngine.cpp
+  AudioCache.cpp
+  AudioDecoder.cpp
+  AudioDecoderManager.cpp
+  AudioDecoderMp3.cpp
+  AudioDecoderOgg.cpp
+  AudioEngine-win32.cpp
+  AudioPlayer.cpp
+  MciPlayer.cpp
+  SimpleAudioEngine.cpp
+  CCAllocatorDiagnostics.cpp
+  CCAllocatorGlobal.cpp
+  CCAllocatorGlobalNewDelete.cpp
+  atitc.cpp
+  base64.cpp
+  CCAsyncTaskPool.cpp
+  CCAutoreleasePool.cpp
+  ccCArray.cpp
+  CCConfiguration.cpp
+  CCConsole.cpp
+  CCController.cpp
+  CCController-linux-win32.cpp
+  CCData.cpp
+  CCDataVisitor.cpp
+  CCDirector.cpp
+  CCEvent.cpp
+  CCEventAcceleration.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\base\CCDirector.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCEventController.cpp
+  CCEventCustom.cpp
+  CCEventDispatcher.cpp
+  CCEventFocus.cpp
+  CCEventKeyboard.cpp
+  CCEventListener.cpp
+  CCEventListenerAcceleration.cpp
+  CCEventListenerController.cpp
+  CCEventListenerCustom.cpp
+  CCEventListenerFocus.cpp
+  CCEventListenerKeyboard.cpp
+  CCEventListenerMouse.cpp
+  CCEventListenerTouch.cpp
+  CCEventMouse.cpp
+  CCEventTouch.cpp
+  ccFPSImages.c
+  CCIMEDispatcher.cpp
+  CCNinePatchImageParser.cpp
+  CCStencilStateManager.cpp
+  CCNS.cpp
+  CCProfiling.cpp
+  CCProperties.cpp
+  ccRandom.cpp
+  CCRef.cpp
+  CCScheduler.cpp
+  CCScriptSupport.cpp
+  CCTouch.cpp
+  ccTypes.cpp
+  CCUserDefault.cpp
+  ccUTF8.cpp
+  ccUtils.cpp
+  CCValue.cpp
+  etc1.cpp
+  pvr.cpp
+  ObjectFactory.cpp
+  s3tc.cpp
+  TGAlib.cpp
+  ZipUtils.cpp
+  cocos2d.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\unzip\unzip.h(47,9): warning C4005: 'CC_DLL': マクロが再定義されました。
+  CCArray.cpp
+  CCDeprecated.cpp
+  CCDictionary.cpp
+  CCNotificationCenter.cpp
+  CCSet.cpp
+  CCString.cpp
+  CCBAnimationManager.cpp
+  CCBFileLoader.cpp
+  CCBKeyframe.cpp
+  CCBReader.cpp
+  CCBSequence.cpp
+  CCBSequenceProperty.cpp
+  CCControlButtonLoader.cpp
+  CCControlLoader.cpp
+  CCLabelBMFontLoader.cpp
+  CCLabelTTFLoader.cpp
+  CCLayerColorLoader.cpp
+  CCLayerGradientLoader.cpp
+  CCLayerLoader.cpp
+  CCMenuItemImageLoader.cpp
+  CCMenuItemLoader.cpp
+  CCNode+CCBRelativePositioning.cpp
+  CCNodeLoader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCNodeLoaderLibrary.cpp
+  CCParticleSystemQuadLoader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCScale9SpriteLoader.cpp
+  CCScrollViewLoader.cpp
+  CCSpriteLoader.cpp
+  CCActionTimeline.cpp
+  CCActionTimelineCache.cpp
+  CCActionTimelineNode.cpp
+  CCBoneNode.cpp
+  CCFrame.cpp
+  CCSkeletonNode.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCSkinNode.cpp
+  CCTimeLine.cpp
+  CSLoader.cpp
+  CCActionFrame.cpp
+  CCActionFrameEasing.cpp
+  CCActionManagerEx.cpp
+  CCActionNode.cpp
+  CCActionObject.cpp
+  CCArmature.cpp
+  CCArmatureAnimation.cpp
+  CCArmatureDataManager.cpp
+  CCArmatureDefine.cpp
+  CCBatchNode.cpp
+  CCBone.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCColliderDetector.cpp
+  CCComAttribute.cpp
+  CCComAudio.cpp
+  CCComController.cpp
+  CCComRender.cpp
+  CCDataReaderHelper.cpp
+  CCDatas.cpp
+  CCDecorativeDisplay.cpp
+  CCDisplayFactory.cpp
+  CCDisplayManager.cpp
+  CCInputDelegate.cpp
+  CCComExtensionData.cpp
+  CCProcessBase.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  CCSGUIReader.cpp
+  CCSkin.cpp
+  CCSpriteFrameCacheHelper.cpp
+  CCSSceneReader.cpp
+  CCTransformHelp.cpp
+  CCTween.cpp
+  CCUtilMath.cpp
+  CocoLoader.cpp
+  CocoStudio.cpp
+  DictionaryHelper.cpp
+  FlatBuffersSerialize.cpp
+  LocalizationManager.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  TriggerBase.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  TriggerMng.cpp
+  TriggerObj.cpp
+  WidgetCallBackHandlerProtocol.cpp
+  ArmatureNodeReader.cpp
+  ButtonReader.cpp
+  CheckBoxReader.cpp
+  ComAudioReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  GameMapReader.cpp
+  GameNode3DReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  ImageViewReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  LayoutReader.cpp
+  Light3DReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  ListViewReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  LoadingBarReader.cpp
+  NodeReaderDefine.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  NodeReaderProtocol.cpp
+  NodeReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  PageViewReader.cpp
+  ParticleReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  ProjectNodeReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  ScrollViewReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  SingleNodeReader.cpp
+  BoneNodeReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  SkeletonNodeReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  SliderReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  SpriteReader.cpp
+  TabControlReader.cpp
+  TextAtlasReader.cpp
+  TextBMFontReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  TextFieldReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  TextReader.cpp
+  Node3DReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  Sprite3DReader.cpp
+  UserCameraReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  Particle3DReader.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  WidgetReader.cpp
+  CCAffineTransform.cpp
+  CCGeometry.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  CCVertex.cpp
+  Mat4.cpp
+  MathUtil.cpp
+  Quaternion.cpp
+  TransformUtils.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Vec4.cpp
+  CCNavMesh.cpp
+  CCNavMeshAgent.cpp
+  CCNavMeshDebugDraw.cpp
+  CCNavMeshObstacle.cpp
+  CCNavMeshUtils.cpp
+  CCDownloader-curl.cpp
+  CCDownloader.cpp
+  HttpClient.cpp
+  SocketIO.cpp
+  Uri.cpp
+  WebSocket.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: '引数': 'double' から 'T' へ切り詰めます。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  CCPhysics3D.cpp
+  CCPhysics3DComponent.cpp
+  CCPhysics3DConstraint.cpp
+  CCPhysics3DDebugDrawer.cpp
+  CCPhysics3DObject.cpp
+  CCPhysics3DShape.cpp
+  CCPhysics3DWorld.cpp
+  CCPhysicsSprite3D.cpp
+  CCPhysicsBody.cpp
+  CCPhysicsContact.cpp
+  CCPhysicsJoint.cpp
+  CCPhysicsShape.cpp
+  CCPhysicsWorld.cpp
+  CCFileUtils.cpp
+  CCGLView.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\external\unzip\unzip.h(47,9): warning C4005: 'CC_DLL': マクロが再定義されました。
+  CCImage.cpp
+  CCSAXParser.cpp
+  CCThread.cpp
+  CCGLViewImpl-desktop.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\platform\CCSAXParser.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCApplication-win32.cpp
+  CCCommon-win32.cpp
+  CCDevice-win32.cpp
+  CCFileUtils-win32.cpp
+  CCStdC-win32.cpp
+  CCUtils-win32.cpp
+  CCBatchCommand.cpp
+  CCCustomCommand.cpp
+  CCFrameBuffer.cpp
+  CCGLProgram.cpp
+  CCGLProgramCache.cpp
+  CCGLProgramState.cpp
+  CCGLProgramStateCache.cpp
+  ccGLStateCache.cpp
+  CCGroupCommand.cpp
+  CCMaterial.cpp
+  CCMeshCommand.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\renderer\CCGLProgramState.cpp(920,16): warning C4996: 'cocos2d::UniformValue::setTexture': が古い形式として宣言されました。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\renderer\CCGLProgramState.cpp(924,16): warning C4996: 'cocos2d::UniformValue::setTexture': が古い形式として宣言されました。
+  CCPass.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\renderer\CCGLProgramState.cpp(941,16): warning C4996: 'cocos2d::UniformValue::setTexture': が古い形式として宣言されました。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\renderer\CCGLProgramState.cpp(945,16): warning C4996: 'cocos2d::UniformValue::setTexture': が古い形式として宣言されました。
+  CCPrimitive.cpp
+  CCPrimitiveCommand.cpp
+  CCQuadCommand.cpp
+  CCRenderCommand.cpp
+  CCRenderer.cpp
+  CCRenderState.cpp
+  ccShaders.cpp
+  CCTechnique.cpp
+  CCTexture2D.cpp
+  CCTextureAtlas.cpp
+  CCTextureCache.cpp
+  CCTextureCube.cpp
+  CCTrianglesCommand.cpp
+  CCVertexAttribBinding.cpp
+  CCVertexIndexBuffer.cpp
+  CCVertexIndexData.cpp
+  LocalStorage.cpp
+  CocosGUI.cpp
+  UIButton.cpp
+  UIAbstractCheckButton.cpp
+  UICheckBox.cpp
+  UIEditBoxImpl-common.cpp
+  UIRadioButton.cpp
+  UIDeprecated.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  UIEditBox.cpp
+  UIEditBoxImpl-win32.cpp
+  UIHBox.cpp
+  UIHelper.cpp
+  UIImageView.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  UILayout.cpp
+  UILayoutComponent.cpp
+  UILayoutManager.cpp
+  UILayoutParameter.cpp
+  UIListView.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  UILoadingBar.cpp
+  UIPageView.cpp
+  UIPageViewIndicator.cpp
+  UIRelativeBox.cpp
+  UIRichText.cpp
+  UIScale9Sprite.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  UIScrollView.cpp
+  UIScrollViewBar.cpp
+  UISlider.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  UITabControl.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  UIText.cpp
+  UITextAtlas.cpp
+  UITextBMFont.cpp
+  UITextField.cpp
+  UIVBox.cpp
+  UIWebView.cpp
+  UIWidget.cpp
+  CCVRDistortion.cpp
+  CCVRDistortionMesh.cpp
+  CCVRGenericHeadTracker.cpp
+  CCVRGenericRenderer.cpp
+  CCAction.cpp
+  CCActionCamera.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\ui\UIScale9Sprite.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCActionCatmullRom.cpp
+  CCActionEase.cpp
+  CCActionGrid.cpp
+  CCActionGrid3D.cpp
+  CCActionInstant.cpp
+  CCActionInterval.cpp
+  CCActionManager.cpp
+  CCActionPageTurn3D.cpp
+  CCActionProgressTimer.cpp
+  CCActionTiledGrid.cpp
+  CCActionTween.cpp
+  CCAnimation.cpp
+  CCAnimationCache.cpp
+  CCAtlasNode.cpp
+  CCAutoPolygon.cpp
+  CCCamera.cpp
+  CCCameraBackgroundBrush.cpp
+  CCClippingNode.cpp
+  CCClippingRectangleNode.cpp
+  CCComponent.cpp
+  CCComponentContainer.cpp
+  CCDrawingPrimitives.cpp
+  CCDrawNode.cpp
+  CCFastTMXLayer.cpp
+  CCFastTMXTiledMap.cpp
+  CCFontAtlas.cpp
+  CCFontAtlasCache.cpp
+  CCFontCharMap.cpp
+  CCFontFNT.cpp
+  CCFontFreeType.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\2d\CCFontFreeType.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCGLBufferedNode.cpp
+  CCGrabber.cpp
+  CCGrid.cpp
+  CCLabel.cpp
+  CCLabelAtlas.cpp
+  CCLabelBMFont.cpp
+  CCLabelTextFormatter.cpp
+  CCLabelTTF.cpp
+  CCLayer.cpp
+  CCLight.cpp
+  CCMenu.cpp
+  CCMenuItem.cpp
+  CCMotionStreak.cpp
+  CCNode.cpp
+  CCNodeGrid.cpp
+  CCParallaxNode.cpp
+  CCParticleBatchNode.cpp
+  CCParticleExamples.cpp
+  CCParticleSystem.cpp
+  CCParticleSystemQuad.cpp
+  CCProgressTimer.cpp
+  CCProtectedNode.cpp
+  CCRenderTexture.cpp
+  CCScene.cpp
+  CCSprite.cpp
+  CCSpriteBatchNode.cpp
+  CCSpriteFrame.cpp
+  CCSpriteFrameCache.cpp
+  CCTextFieldTTF.cpp
+  CCTileMapAtlas.cpp
+  CCTMXLayer.cpp
+  CCTMXObjectGroup.cpp
+  CCTMXTiledMap.cpp
+  CCTMXXMLParser.cpp
+  CCTransition.cpp
+C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\cocos2d\cocos\2d\CCTMXXMLParser.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CCTransitionPageTurn.cpp
+  CCTransitionProgress.cpp
+  CCTweenFunction.cpp
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  6 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  1 個のファイルをコピーしました
+  4 個のファイルをコピーしました
+  2 個のファイルをコピーしました
+libtiff.lib(tif_win32.obj) : warning LNK4075: /EDITANDCONTINUE は /INCREMENTAL:NO の指定によって無視されます。
+     ライブラリ C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\proj.win32\Debug.win32\libcocos2d.lib とオブジェクト C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\proj.win32\Debug.win32\libcocos2d.exp を作成中
+LINK : warning LNK4098: defaultlib 'LIBCMT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+LINK : warning LNK4098: defaultlib 'MSVCRT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+libtiff.lib(tif_aux.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_aux.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_close.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_close.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_codec.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_codec.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_color.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_color.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_compress.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_compress.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_dir.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_dir.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_dirinfo.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_dirinfo.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_dirread.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_dirread.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_dirwrite.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_dirwrite.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_dumpmode.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_dumpmode.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_error.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_error.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_fax3.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_fax3.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_fax3sm.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_fax3sm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_getimage.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_getimage.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_flush.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_flush.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_luv.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_luv.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_lzw.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_lzw.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_next.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_next.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_open.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_open.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_packbits.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_packbits.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_predict.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_predict.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_read.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_read.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_swab.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_swab.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_strip.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_strip.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_thunder.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_thunder.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_tile.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_tile.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_warning.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_warning.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_write.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_write.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libtiff.lib(tif_win32.obj) : warning LNK4099: PDB '' が 'libtiff.lib(tif_win32.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(chipmunk.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(chipmunk.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpArbiter.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpArbiter.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpArray.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpArray.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpBBTree.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpBBTree.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpBody.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpBody.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpCollision.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpCollision.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpConstraint.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpConstraint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpDampedRotarySpring.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpDampedRotarySpring.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpDampedSpring.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpDampedSpring.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpGearJoint.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpGearJoint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpGrooveJoint.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpGrooveJoint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpHashSet.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpHashSet.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpPinJoint.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpPinJoint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpPivotJoint.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpPivotJoint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpPolyShape.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpPolyShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpRatchetJoint.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpRatchetJoint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpRobust.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpRobust.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpRotaryLimitJoint.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpRotaryLimitJoint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpShape.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSimpleMotor.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSimpleMotor.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSlideJoint.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSlideJoint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpace.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSpace.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceComponent.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSpaceComponent.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceDebug.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSpaceDebug.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceHash.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSpaceHash.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceQuery.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSpaceQuery.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpaceStep.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSpaceStep.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libchipmunk.lib(cpSpatialIndex.obj) : warning LNK4099: PDB '' が 'libchipmunk.lib(cpSpatialIndex.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btDbvt.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btDbvt.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btDbvtBroadphase.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btDbvtBroadphase.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btDispatcher.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btDispatcher.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btOverlappingPairCache.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btOverlappingPairCache.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btQuantizedBvh.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btQuantizedBvh.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btActivatingCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btActivatingCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btBoxBoxCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btBoxBoxCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btBoxBoxDetector.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btBoxBoxDetector.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCollisionDispatcher.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCollisionDispatcher.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCollisionObject.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCollisionObject.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCollisionWorld.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCollisionWorld.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCompoundCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCompoundCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCompoundCompoundCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCompoundCompoundCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexConcaveCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexConcaveCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexConvexAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexConvexAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexPlaneCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexPlaneCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btDefaultCollisionConfiguration.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btDefaultCollisionConfiguration.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btEmptyCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btEmptyCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btGhostObject.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btGhostObject.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btHashedSimplePairCache.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btHashedSimplePairCache.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btManifoldResult.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btManifoldResult.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btSimulationIslandManager.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btSimulationIslandManager.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btSphereSphereCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btSphereSphereCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btSphereTriangleCollisionAlgorithm.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btSphereTriangleCollisionAlgorithm.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btUnionFind.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btUnionFind.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(SphereTriangleDetector.obj) : warning LNK4099: PDB '' が 'libbullet.lib(SphereTriangleDetector.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btBoxShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btBoxShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btBvhTriangleMeshShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btBvhTriangleMeshShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCapsuleShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCapsuleShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCollisionShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCollisionShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCompoundShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCompoundShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConcaveShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConcaveShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexHullShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexHullShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexInternalShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexInternalShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexPolyhedron.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexPolyhedron.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btCylinderShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btCylinderShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btHeightfieldTerrainShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btHeightfieldTerrainShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btOptimizedBvh.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btOptimizedBvh.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btPolyhedralConvexShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btPolyhedralConvexShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btSphereShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btSphereShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btStridingMeshInterface.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btStridingMeshInterface.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btTriangleCallback.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btTriangleCallback.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btTriangleIndexVertexArray.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btTriangleIndexVertexArray.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btTriangleMesh.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btTriangleMesh.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btTriangleMeshShape.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btTriangleMeshShape.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btContinuousConvexCollision.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btContinuousConvexCollision.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexCast.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexCast.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btGjkConvexCast.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btGjkConvexCast.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btGjkEpa2.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btGjkEpa2.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btGjkEpaPenetrationDepthSolver.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btGjkEpaPenetrationDepthSolver.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btGjkPairDetector.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btGjkPairDetector.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btMinkowskiPenetrationDepthSolver.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btMinkowskiPenetrationDepthSolver.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btPersistentManifold.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btPersistentManifold.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btPolyhedralContactClipping.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btPolyhedralContactClipping.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btRaycastCallback.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btRaycastCallback.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btSubSimplexConvexCast.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btSubSimplexConvexCast.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btVoronoiSimplexSolver.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btVoronoiSimplexSolver.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConeTwistConstraint.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConeTwistConstraint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btGeneric6DofConstraint.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btGeneric6DofConstraint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btHingeConstraint.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btHingeConstraint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btPoint2PointConstraint.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btPoint2PointConstraint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btSequentialImpulseConstraintSolver.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btSequentialImpulseConstraintSolver.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btSliderConstraint.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btSliderConstraint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btTypedConstraint.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btTypedConstraint.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btDiscreteDynamicsWorld.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btDiscreteDynamicsWorld.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btRigidBody.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btRigidBody.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btAlignedAllocator.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btAlignedAllocator.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btConvexHullComputer.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btConvexHullComputer.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btGeometryUtil.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btGeometryUtil.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btQuickprof.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btQuickprof.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+libbullet.lib(btVector3.obj) : warning LNK4099: PDB '' が 'libbullet.lib(btVector3.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  libcocos2d.vcxproj -> C:\Users\owner\Desktop\Home\KinosLab\CocosTest00\proj.win32\Debug.win32\libcocos2d.dll
