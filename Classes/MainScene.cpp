@@ -26,6 +26,11 @@ bool MainScene::init()
         return false;
     }
 
+    auto director = Director::getInstance();
+    auto size = director->getWinSize();
+    auto bg = Sprite::create("texture/bg000.png");
+    bg->setPosition(Vec2(size.width * 0.5f, size.height * 0.5f));
+    addChild(bg);
 
 
     return true;
