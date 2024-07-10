@@ -13,9 +13,11 @@ public:
 
 private:
     MainScene();
-    virtual ~MainScene() = default;
+    virtual ~MainScene();
 
     virtual bool init() override;
+
+    CC_SYNTHESIZE_RETAIN(cocos2d::Sprite*, _player, Player);
 
 };
 
