@@ -1,4 +1,4 @@
-#include "MainScene.h"
+ï»¿#include "MainScene.h"
 
 
 USING_NS_CC;
@@ -41,12 +41,12 @@ bool MainScene::init()
     addChild(bg);
 
 
-    // ƒvƒŒƒCƒ„[
+    // ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼
     setPlayer(Sprite::create("texture/player000.png"));
     _player->setPosition(Vec2(size.width * 0.5f, size.height - 550));
     addChild(_player);
 
-    // ƒ^ƒbƒ`”»’è•ˆÚ“®
+    // ã‚¿ãƒƒãƒåˆ¤å®šï¼†ç§»å‹•
     auto listner = EventListenerTouchOneByOne::create();
     listner->onTouchBegan = [](Touch* touch, Event* event) {
         return true;
