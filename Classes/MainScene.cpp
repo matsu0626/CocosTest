@@ -74,10 +74,26 @@ bool MainScene::init()
 
 void MainScene::update(float dt)
 {
+    // フルーツ生成
     int random = rand() % FRUIT_SPAWN_RATE;
     if (random == 0) {
         addFruit();
     }
+
+    // フルーツキャッチ
+    cocos2d::Vector<cocos2d::Sprite*>::iterator it = _fruits.begin();
+    while (it != _fruits.end()) {
+        auto fruit = (*it);
+        Vec2 busketPos = _player->getPosition() - Vec2(0, 10);
+        Rect boundingBox = fruit->getBoundingBox();
+        bool isHit = boundingBox.containsPoint(busketPos);
+        if (isHit) {
+            it = this->catchFruit(fruit);
+        } else {
+            it++;
+        }
+    }
+
 }
 
 Sprite* MainScene::addFruit()
@@ -110,10 +126,16 @@ Sprite* MainScene::addFruit()
     return fruit;
 }
 
-void MainScene::removeFruit(cocos2d::Sprite* fruit)
+cocos2d::Vector<cocos2d::Sprite*>::iterator MainScene::removeFruit(cocos2d::Sprite* fruit)
 {
-    if (_fruits.contains(fruit)) {
-        fruit->removeFromParent();
-        _fruits.eraseObject(fruit);
-    }
+    auto it = _fruits.find(fruit);
+    CCASSERT(it!= _fruits.end(), "Not found object.");
+    fruit->removeFromParent();
+    return _fruits.erase(it);
+}
+
+cocos2d::Vector<cocos2d::Sprite*>::iterator MainScene::catchFruit(cocos2d::Sprite* fruit)
+{
+    auto it = this->removeFruit(fruit);
+    return it;
 }

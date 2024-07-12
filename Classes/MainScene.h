@@ -30,7 +30,9 @@ private:
 
 
     cocos2d::Sprite* addFruit();
-    void removeFruit(cocos2d::Sprite* fruit);
+    cocos2d::Vector<cocos2d::Sprite*>::iterator removeFruit(cocos2d::Sprite* fruit);
+
+    cocos2d::Vector<cocos2d::Sprite*>::iterator catchFruit(cocos2d::Sprite* fruit);
 
 
     CC_SYNTHESIZE_RETAIN(cocos2d::Sprite*, _player, Player);
