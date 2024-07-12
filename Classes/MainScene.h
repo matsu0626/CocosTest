@@ -1,4 +1,4 @@
-
+﻿
 #ifndef __MAIN_SCENE_H__
 #define __MAIN_SCENE_H__
 
@@ -12,10 +12,29 @@ public:
     CREATE_FUNC(MainScene);
 
 private:
+    enum class FruitType {
+        APPLE,
+        GRAPE,
+        ORANGE,
+        BANANA,
+        CHERRY,
+        // ----
+        MAX
+    };
+
     MainScene();
-    virtual ~MainScene() = default;
+    virtual ~MainScene();
 
     virtual bool init() override;
+    void update(float dt);
+
+
+    cocos2d::Sprite* addFruit();
+    void removeFruit(cocos2d::Sprite* fruit);
+
+
+    CC_SYNTHESIZE_RETAIN(cocos2d::Sprite*, _player, Player);
+    CC_SYNTHESIZE(cocos2d::Vector<cocos2d::Sprite*>, _fruits, Fruit);
 
 };
 
