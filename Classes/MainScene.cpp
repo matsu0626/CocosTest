@@ -10,6 +10,8 @@ namespace {
 
 MainScene::MainScene()
 : _player(nullptr)
+, _score(0)
+, _scoreLabel(nullptr)
 {
 }
 
@@ -17,6 +19,7 @@ MainScene::MainScene()
 MainScene::~MainScene()
 {
     CC_SAFE_RELEASE_NULL(_player);
+    CC_SAFE_RELEASE_NULL(_scoreLabel);
 }
 
 Scene* MainScene::createScene()
@@ -65,6 +68,21 @@ bool MainScene::init()
 
     };
     director->getEventDispatcher()->addEventListenerWithSceneGraphPriority(listner, this);
+
+    // スコアラベル追加
+    auto scoreLabel = Label::createWithSystemFont(StringUtils::toString(_score), "Marker Felt", 16);
+    scoreLabel->setPosition(Vec2(size.width * 0.5 * 1.5, size.height - 40));
+    scoreLabel->enableShadow(Color4B::BLACK, Size(0.5, 0.5), 3);
+    scoreLabel->enableOutline(Color4B::BLACK, 1.5);
+    this->setScoreLabel(scoreLabel);
+    this->addChild(scoreLabel);
+
+
+    auto scoreLabelHeader = Label::createWithSystemFont("SCORE", "Marker Felt", 16);
+    scoreLabelHeader->setPosition(Vec2(size.width * 0.5 * 1.5, size.height - 20));
+    scoreLabelHeader->enableShadow(Color4B::BLACK, Size(0.5, 0.5), 3);
+    scoreLabelHeader->enableOutline(Color4B::BLACK, 1.5);
+    this->addChild(scoreLabelHeader);
 
     // update()を毎フレーム呼ぶようにする
     scheduleUpdate();
@@ -136,6 +154,10 @@ cocos2d::Vector<cocos2d::Sprite*>::iterator MainScene::removeFruit(cocos2d::Spri
 
 cocos2d::Vector<cocos2d::Sprite*>::iterator MainScene::catchFruit(cocos2d::Sprite* fruit)
 {
+    // スコア設定
+    _score += 1;
+    _scoreLabel->setString(StringUtils::toString(_score));
+
     auto it = this->removeFruit(fruit);
     return it;
 }
