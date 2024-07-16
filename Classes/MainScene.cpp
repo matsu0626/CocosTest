@@ -6,12 +6,15 @@ USING_NS_CC;
 namespace {
     const int FRUIT_TOP_MARGIN = 40;
     const int FRUIT_SPAWN_RATE = 20;
+    const float TIME_LIMIT_SECOND = 60;
 };
 
 MainScene::MainScene()
 : _player(nullptr)
 , _score(0)
 , _scoreLabel(nullptr)
+, _second(TIME_LIMIT_SECOND)
+, _secondLabel(nullptr)
 {
 }
 
@@ -20,6 +23,7 @@ MainScene::~MainScene()
 {
     CC_SAFE_RELEASE_NULL(_player);
     CC_SAFE_RELEASE_NULL(_scoreLabel);
+    CC_SAFE_RELEASE_NULL(_secondLabel);
 }
 
 Scene* MainScene::createScene()
@@ -77,12 +81,28 @@ bool MainScene::init()
     this->setScoreLabel(scoreLabel);
     this->addChild(scoreLabel);
 
-
     auto scoreLabelHeader = Label::createWithSystemFont("SCORE", "Marker Felt", 16);
     scoreLabelHeader->setPosition(Vec2(size.width * 0.5 * 1.5, size.height - 20));
     scoreLabelHeader->enableShadow(Color4B::BLACK, Size(0.5, 0.5), 3);
     scoreLabelHeader->enableOutline(Color4B::BLACK, 1.5);
     this->addChild(scoreLabelHeader);
+
+
+    // タイマーラベル追加
+    int second = static_cast<int>(_second);
+    auto secondLabel = Label::createWithSystemFont(StringUtils::toString(second), "Marker Felt", 16);
+    secondLabel->setPosition(Vec2(size.width * 0.5, size.height - 40));
+    secondLabel->enableShadow(Color4B::BLACK, Size(0.5, 0.5), 3);
+    secondLabel->enableOutline(Color4B::BLACK, 1.5);
+    this->setSecondLabel(secondLabel);
+    this->addChild(secondLabel);
+
+    auto secondLabelHeader = Label::createWithSystemFont("TIME", "Marker Felt", 16);
+    secondLabelHeader->setPosition(Vec2(size.width * 0.5, size.height - 20));
+    secondLabelHeader->enableShadow(Color4B::BLACK, Size(0.5, 0.5), 3);
+    secondLabelHeader->enableOutline(Color4B::BLACK, 1.5);
+    this->addChild(secondLabelHeader);
+
 
     // update()を毎フレーム呼ぶようにする
     scheduleUpdate();
@@ -112,6 +132,10 @@ void MainScene::update(float dt)
         }
     }
 
+    // 残り秒数を減らす
+    _second -= dt;
+    int second = static_cast<int>(_second);
+    _secondLabel->setString(StringUtils::toString(second));
 }
 
 Sprite* MainScene::addFruit()
