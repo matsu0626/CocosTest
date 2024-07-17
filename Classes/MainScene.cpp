@@ -6,11 +6,12 @@ USING_NS_CC;
 namespace {
     const int FRUIT_TOP_MARGIN = 40;
     const int FRUIT_SPAWN_RATE = 20;
-    const float TIME_LIMIT_SECOND = 60;
+    const float TIME_LIMIT_SECOND = 10;
 };
 
 MainScene::MainScene()
-: _player(nullptr)
+: _state(GameState::PLAYING)
+, _player(nullptr)
 , _score(0)
 , _scoreLabel(nullptr)
 , _second(TIME_LIMIT_SECOND)
@@ -112,31 +113,78 @@ bool MainScene::init()
 
 void MainScene::update(float dt)
 {
-    // フルーツ生成
-    int random = rand() % FRUIT_SPAWN_RATE;
-    if (random == 0) {
-        addFruit();
-    }
+    switch (_state) {
+    case GameState::PLAYING:
+        {
+            // フルーツ生成
+            int random = rand() % FRUIT_SPAWN_RATE;
+            if (random == 0) {
+                addFruit();
+            }
 
-    // フルーツキャッチ
-    cocos2d::Vector<cocos2d::Sprite*>::iterator it = _fruits.begin();
-    while (it != _fruits.end()) {
-        auto fruit = (*it);
-        Vec2 busketPos = _player->getPosition() - Vec2(0, 10);
-        Rect boundingBox = fruit->getBoundingBox();
-        bool isHit = boundingBox.containsPoint(busketPos);
-        if (isHit) {
-            it = this->catchFruit(fruit);
-        } else {
-            it++;
+            // フルーツキャッチ
+            cocos2d::Vector<cocos2d::Sprite*>::iterator it = _fruits.begin();
+            while (it != _fruits.end()) {
+                auto fruit = (*it);
+                Vec2 busketPos = _player->getPosition() - Vec2(0, 10);
+                Rect boundingBox = fruit->getBoundingBox();
+                bool isHit = boundingBox.containsPoint(busketPos);
+                if (isHit) {
+                    it = this->catchFruit(fruit);
+                } else {
+                  it++;
+                }
+            }
+
+            // 残り秒数を減らす
+            _second -= dt;
+            int second = static_cast<int>(_second);
+            _secondLabel->setString(StringUtils::toString(second));
+
+
+            if (_second < 0) {
+                this->onResult();
+            }
         }
+        break;
+
+    default:
+        break;
     }
 
-    // 残り秒数を減らす
-    _second -= dt;
-    int second = static_cast<int>(_second);
-    _secondLabel->setString(StringUtils::toString(second));
 }
+
+void MainScene::onResult()
+{
+    _state = GameState::RESULT;
+
+    auto winSize = Director::getInstance()->getWinSize();
+
+    // もう一度遊ぶボタン
+    auto replayBtn = MenuItemImage::create(
+        "texture/replay_button.png",
+        "texture/replay_button_pressed.png",
+        [](Ref* ref) {
+            auto scene = MainScene::createScene();
+            auto transition = TransitionFade::create(0.5, scene);
+            Director::getInstance()->replaceScene(transition);
+        });
+
+    // タイトルへ戻るボタン
+    auto titleBtn = MenuItemImage::create(
+        "texture/title_button.png",
+        "texture/title_button_pressed.png",
+        [](Ref* ref) {
+
+        });
+
+    // メニュー生成
+    auto menu = Menu::create(replayBtn, titleBtn, NULL);
+    menu->alignItemsVerticallyWithPadding(15);
+    menu->setPosition(Vec2(winSize.width * 0.5, winSize.height * 0.5));
+    this->addChild(menu);
+}
+
 
 Sprite* MainScene::addFruit()
 {

@@ -12,6 +12,12 @@ public:
     CREATE_FUNC(MainScene);
 
 private:
+    enum class GameState {
+        PLAYING,
+        RESULT,
+    };
+
+
     enum class FruitType {
         APPLE,
         GRAPE,
@@ -21,6 +27,7 @@ private:
         // ----
         MAX
     };
+    
 
     MainScene();
     virtual ~MainScene();
@@ -29,12 +36,15 @@ private:
     void update(float dt);
 
 
+    void onResult();
+
+
     cocos2d::Sprite* addFruit();
     cocos2d::Vector<cocos2d::Sprite*>::iterator removeFruit(cocos2d::Sprite* fruit);
 
     cocos2d::Vector<cocos2d::Sprite*>::iterator catchFruit(cocos2d::Sprite* fruit);
 
-
+    CC_SYNTHESIZE(GameState, _state, State);
     CC_SYNTHESIZE_RETAIN(cocos2d::Sprite*, _player, Player);
     CC_SYNTHESIZE(cocos2d::Vector<cocos2d::Sprite*>, _fruits, Fruit);
     CC_SYNTHESIZE(int, _score, Score);
