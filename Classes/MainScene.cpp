@@ -1,4 +1,5 @@
-﻿#include "MainScene.h"
+﻿#include "SimpleAudioEngine.h"
+#include "MainScene.h"
 
 
 USING_NS_CC;
@@ -109,6 +110,14 @@ bool MainScene::init()
     scheduleUpdate();
 
     return true;
+}
+
+void MainScene::onEnterTransitionDidFinish()
+{
+    Layer::onEnterTransitionDidFinish();
+
+    // BGM再生
+    CocosDenshion::SimpleAudioEngine::getInstance()->playBackgroundMusic("bgm/main.mp3");
 }
 
 void MainScene::update(float dt)

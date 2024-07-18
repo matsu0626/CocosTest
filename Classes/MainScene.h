@@ -32,8 +32,12 @@ private:
     MainScene();
     virtual ~MainScene();
 
-    virtual bool init() override;
+    bool init() override;
+    void onEnterTransitionDidFinish() override;
+
     void update(float dt);
+
+    
 
 
     void onResult();
